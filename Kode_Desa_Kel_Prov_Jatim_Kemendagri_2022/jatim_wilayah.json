@@ -1,0 +1,2606 @@
+{
+  "kode_provinsi": "35",
+  "nama_provinsi": "JAWA TIMUR",
+  "kabupaten_kota": [
+    {
+      "kode_kabkota": "35.01",
+      "nama_kabkota": "KABUPATEN PACITAN",
+      "kecamatan": [
+        {
+          "kode_kecamatan": "35.01.01",
+          "nama_kecamatan": "Donorojo",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.01.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Widoro"
+            },
+            {
+              "kode_wilayah": "35.01.01.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sawahan"
+            },
+            {
+              "kode_wilayah": "35.01.01.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kalak"
+            },
+            {
+              "kode_wilayah": "35.01.01.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sendang"
+            },
+            {
+              "kode_wilayah": "35.01.01.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Klepu"
+            },
+            {
+              "kode_wilayah": "35.01.01.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gedompol"
+            },
+            {
+              "kode_wilayah": "35.01.01.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Cemeng"
+            },
+            {
+              "kode_wilayah": "35.01.01.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gendaran"
+            },
+            {
+              "kode_wilayah": "35.01.01.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sukodono"
+            },
+            {
+              "kode_wilayah": "35.01.01.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sekar"
+            },
+            {
+              "kode_wilayah": "35.01.01.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Donorojo"
+            },
+            {
+              "kode_wilayah": "35.01.01.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Belah"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.02",
+          "nama_kecamatan": "Pringkuku",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.02.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Dersono"
+            },
+            {
+              "kode_wilayah": "35.01.02.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sugihwaras"
+            },
+            {
+              "kode_wilayah": "35.01.02.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Watukarung"
+            },
+            {
+              "kode_wilayah": "35.01.02.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jlubang"
+            },
+            {
+              "kode_wilayah": "35.01.02.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Candi"
+            },
+            {
+              "kode_wilayah": "35.01.02.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Poko"
+            },
+            {
+              "kode_wilayah": "35.01.02.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Dadapan"
+            },
+            {
+              "kode_wilayah": "35.01.02.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pringkuku"
+            },
+            {
+              "kode_wilayah": "35.01.02.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sobo"
+            },
+            {
+              "kode_wilayah": "35.01.02.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngadirejan"
+            },
+            {
+              "kode_wilayah": "35.01.02.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ginggangan"
+            },
+            {
+              "kode_wilayah": "35.01.02.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pelem"
+            },
+            {
+              "kode_wilayah": "35.01.02.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tamansari"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.03",
+          "nama_kecamatan": "Punung",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.03.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bomo"
+            },
+            {
+              "kode_wilayah": "35.01.03.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sooka"
+            },
+            {
+              "kode_wilayah": "35.01.03.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Punung"
+            },
+            {
+              "kode_wilayah": "35.01.03.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mendolo Kidul"
+            },
+            {
+              "kode_wilayah": "35.01.03.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Piton"
+            },
+            {
+              "kode_wilayah": "35.01.03.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kendal"
+            },
+            {
+              "kode_wilayah": "35.01.03.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wareng"
+            },
+            {
+              "kode_wilayah": "35.01.03.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mantren"
+            },
+            {
+              "kode_wilayah": "35.01.03.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mendolo Lor"
+            },
+            {
+              "kode_wilayah": "35.01.03.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ploso"
+            },
+            {
+              "kode_wilayah": "35.01.03.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gondosari"
+            },
+            {
+              "kode_wilayah": "35.01.03.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kebonsari"
+            },
+            {
+              "kode_wilayah": "35.01.03.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tinatar"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.04",
+          "nama_kecamatan": "Pacitan",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.04.1001",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Sidoharjo"
+            },
+            {
+              "kode_wilayah": "35.01.04.1002",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Ploso"
+            },
+            {
+              "kode_wilayah": "35.01.04.1008",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Baleharjo"
+            },
+            {
+              "kode_wilayah": "35.01.04.1012",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Pucang Sewu"
+            },
+            {
+              "kode_wilayah": "35.01.04.1013",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Pacitan"
+            },
+            {
+              "kode_wilayah": "35.01.04.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kembang"
+            },
+            {
+              "kode_wilayah": "35.01.04.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sukoharjo"
+            },
+            {
+              "kode_wilayah": "35.01.04.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kayen"
+            },
+            {
+              "kode_wilayah": "35.01.04.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sirnoboyo"
+            },
+            {
+              "kode_wilayah": "35.01.04.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Arjowinangun"
+            },
+            {
+              "kode_wilayah": "35.01.04.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bangunsari"
+            },
+            {
+              "kode_wilayah": "35.01.04.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sedeng"
+            },
+            {
+              "kode_wilayah": "35.01.04.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sumberharjo"
+            },
+            {
+              "kode_wilayah": "35.01.04.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tanjungsari"
+            },
+            {
+              "kode_wilayah": "35.01.04.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Menadi"
+            },
+            {
+              "kode_wilayah": "35.01.04.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mentoro"
+            },
+            {
+              "kode_wilayah": "35.01.04.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Purworejo"
+            },
+            {
+              "kode_wilayah": "35.01.04.2018",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nanggungan"
+            },
+            {
+              "kode_wilayah": "35.01.04.2019",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Widoro"
+            },
+            {
+              "kode_wilayah": "35.01.04.2020",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Semanten"
+            },
+            {
+              "kode_wilayah": "35.01.04.2021",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sambong"
+            },
+            {
+              "kode_wilayah": "35.01.04.2022",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Banjarsari"
+            },
+            {
+              "kode_wilayah": "35.01.04.2023",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bolosingo"
+            },
+            {
+              "kode_wilayah": "35.01.04.2024",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ponggok"
+            },
+            {
+              "kode_wilayah": "35.01.04.2025",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tambakrejo"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.05",
+          "nama_kecamatan": "Kebonagung",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.05.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Plumbungan"
+            },
+            {
+              "kode_wilayah": "35.01.05.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangnongko"
+            },
+            {
+              "kode_wilayah": "35.01.05.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kalipelus"
+            },
+            {
+              "kode_wilayah": "35.01.05.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karanganyar"
+            },
+            {
+              "kode_wilayah": "35.01.05.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Katipugal"
+            },
+            {
+              "kode_wilayah": "35.01.05.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Klesem"
+            },
+            {
+              "kode_wilayah": "35.01.05.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sidomulyo"
+            },
+            {
+              "kode_wilayah": "35.01.05.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Worawari"
+            },
+            {
+              "kode_wilayah": "35.01.05.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mantren"
+            },
+            {
+              "kode_wilayah": "35.01.05.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gawang"
+            },
+            {
+              "kode_wilayah": "35.01.05.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kebonagung"
+            },
+            {
+              "kode_wilayah": "35.01.05.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Purwoasri"
+            },
+            {
+              "kode_wilayah": "35.01.05.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Banjarjo"
+            },
+            {
+              "kode_wilayah": "35.01.05.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gembuk"
+            },
+            {
+              "kode_wilayah": "35.01.05.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sanggrahan"
+            },
+            {
+              "kode_wilayah": "35.01.05.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Punjung"
+            },
+            {
+              "kode_wilayah": "35.01.05.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonogondo"
+            },
+            {
+              "kode_wilayah": "35.01.05.2018",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ketepung"
+            },
+            {
+              "kode_wilayah": "35.01.05.2019",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ketro"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.06",
+          "nama_kecamatan": "Arjosari",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.06.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mlati"
+            },
+            {
+              "kode_wilayah": "35.01.06.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sedayu"
+            },
+            {
+              "kode_wilayah": "35.01.06.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tremas"
+            },
+            {
+              "kode_wilayah": "35.01.06.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Arjosari"
+            },
+            {
+              "kode_wilayah": "35.01.06.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gunungsari"
+            },
+            {
+              "kode_wilayah": "35.01.06.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pagutan"
+            },
+            {
+              "kode_wilayah": "35.01.06.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gembong"
+            },
+            {
+              "kode_wilayah": "35.01.06.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Borang"
+            },
+            {
+              "kode_wilayah": "35.01.06.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gegeran"
+            },
+            {
+              "kode_wilayah": "35.01.06.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kedungbendo"
+            },
+            {
+              "kode_wilayah": "35.01.06.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mangunharjo"
+            },
+            {
+              "kode_wilayah": "35.01.06.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jetiskidul"
+            },
+            {
+              "kode_wilayah": "35.01.06.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Temon"
+            },
+            {
+              "kode_wilayah": "35.01.06.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karaggede"
+            },
+            {
+              "kode_wilayah": "35.01.06.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gayuhan"
+            },
+            {
+              "kode_wilayah": "35.01.06.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangrejo"
+            },
+            {
+              "kode_wilayah": "35.01.06.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jatimalang"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.07",
+          "nama_kecamatan": "Nawangan",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.07.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gondang"
+            },
+            {
+              "kode_wilayah": "35.01.07.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mujing"
+            },
+            {
+              "kode_wilayah": "35.01.07.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sempu"
+            },
+            {
+              "kode_wilayah": "35.01.07.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nawangan"
+            },
+            {
+              "kode_wilayah": "35.01.07.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tokawi"
+            },
+            {
+              "kode_wilayah": "35.01.07.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jetis Lor"
+            },
+            {
+              "kode_wilayah": "35.01.07.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Penggung"
+            },
+            {
+              "kode_wilayah": "35.01.07.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pakis Baru"
+            },
+            {
+              "kode_wilayah": "35.01.07.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngromo"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.08",
+          "nama_kecamatan": "Bandar",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.08.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Petungsinarang"
+            },
+            {
+              "kode_wilayah": "35.01.08.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngunut"
+            },
+            {
+              "kode_wilayah": "35.01.08.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bandar"
+            },
+            {
+              "kode_wilayah": "35.01.08.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kledung"
+            },
+            {
+              "kode_wilayah": "35.01.08.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tumpuk"
+            },
+            {
+              "kode_wilayah": "35.01.08.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Watupatok"
+            },
+            {
+              "kode_wilayah": "35.01.08.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bangunsari"
+            },
+            {
+              "kode_wilayah": "35.01.08.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jeruk"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.09",
+          "nama_kecamatan": "Tegalombo",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.09.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kebondalem"
+            },
+            {
+              "kode_wilayah": "35.01.09.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gedangan"
+            },
+            {
+              "kode_wilayah": "35.01.09.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngreco"
+            },
+            {
+              "kode_wilayah": "35.01.09.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kasihan"
+            },
+            {
+              "kode_wilayah": "35.01.09.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pucangombo"
+            },
+            {
+              "kode_wilayah": "35.01.09.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gemaharjo"
+            },
+            {
+              "kode_wilayah": "35.01.09.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ploso"
+            },
+            {
+              "kode_wilayah": "35.01.09.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tegalombo"
+            },
+            {
+              "kode_wilayah": "35.01.09.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kemuning"
+            },
+            {
+              "kode_wilayah": "35.01.09.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tahunan Baru"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.10",
+          "nama_kecamatan": "Tulakan",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.10.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jetak"
+            },
+            {
+              "kode_wilayah": "35.01.10.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nglaran"
+            },
+            {
+              "kode_wilayah": "35.01.10.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonoanti"
+            },
+            {
+              "kode_wilayah": "35.01.10.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Padi"
+            },
+            {
+              "kode_wilayah": "35.01.10.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kluwih"
+            },
+            {
+              "kode_wilayah": "35.01.10.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bungur"
+            },
+            {
+              "kode_wilayah": "35.01.10.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tulakan"
+            },
+            {
+              "kode_wilayah": "35.01.10.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jatigunung"
+            },
+            {
+              "kode_wilayah": "35.01.10.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gasang"
+            },
+            {
+              "kode_wilayah": "35.01.10.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kalikuning"
+            },
+            {
+              "kode_wilayah": "35.01.10.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngile"
+            },
+            {
+              "kode_wilayah": "35.01.10.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bubakan"
+            },
+            {
+              "kode_wilayah": "35.01.10.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Losari"
+            },
+            {
+              "kode_wilayah": "35.01.10.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngumbul"
+            },
+            {
+              "kode_wilayah": "35.01.10.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonosidi"
+            },
+            {
+              "kode_wilayah": "35.01.10.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ketro"
+            },
+            {
+              "kode_wilayah": "35.01.10.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ketro Harjo"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.11",
+          "nama_kecamatan": "Ngadirojo",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.11.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sidomulyo"
+            },
+            {
+              "kode_wilayah": "35.01.11.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Hadiwarno"
+            },
+            {
+              "kode_wilayah": "35.01.11.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tanjungpuro"
+            },
+            {
+              "kode_wilayah": "35.01.11.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Hadiluwih"
+            },
+            {
+              "kode_wilayah": "35.01.11.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pagerejo"
+            },
+            {
+              "kode_wilayah": "35.01.11.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wiyoro"
+            },
+            {
+              "kode_wilayah": "35.01.11.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngadirojo"
+            },
+            {
+              "kode_wilayah": "35.01.11.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bogoharjo"
+            },
+            {
+              "kode_wilayah": "35.01.11.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Cokrokembang"
+            },
+            {
+              "kode_wilayah": "35.01.11.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bodag"
+            },
+            {
+              "kode_wilayah": "35.01.11.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tanjunglor"
+            },
+            {
+              "kode_wilayah": "35.01.11.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nogosari"
+            },
+            {
+              "kode_wilayah": "35.01.11.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Cangkring"
+            },
+            {
+              "kode_wilayah": "35.01.11.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonodadi Wetan"
+            },
+            {
+              "kode_wilayah": "35.01.11.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonodadi Kulon"
+            },
+            {
+              "kode_wilayah": "35.01.11.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonokarto"
+            },
+            {
+              "kode_wilayah": "35.01.11.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonosobo"
+            },
+            {
+              "kode_wilayah": "35.01.11.2018",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonosari"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.01.12",
+          "nama_kecamatan": "Sudimoro",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.01.12.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pagerkidul"
+            },
+            {
+              "kode_wilayah": "35.01.12.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pagerlor"
+            },
+            {
+              "kode_wilayah": "35.01.12.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sukorejo"
+            },
+            {
+              "kode_wilayah": "35.01.12.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sudimoro"
+            },
+            {
+              "kode_wilayah": "35.01.12.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ketanggung"
+            },
+            {
+              "kode_wilayah": "35.01.12.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Klepu"
+            },
+            {
+              "kode_wilayah": "35.01.12.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sembowo"
+            },
+            {
+              "kode_wilayah": "35.01.12.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangmulyo"
+            },
+            {
+              "kode_wilayah": "35.01.12.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gunungrejo"
+            },
+            {
+              "kode_wilayah": "35.01.12.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sumberejo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kode_kabkota": "35.02",
+      "nama_kabkota": "KABUPATEN PONOROGO",
+      "kecamatan": [
+        {
+          "kode_kecamatan": "35.02.01",
+          "nama_kecamatan": "Slahung",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.01.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tugurejo"
+            },
+            {
+              "kode_wilayah": "35.02.01.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Senepo"
+            },
+            {
+              "kode_wilayah": "35.02.01.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Slahung"
+            },
+            {
+              "kode_wilayah": "35.02.01.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Caluk"
+            },
+            {
+              "kode_wilayah": "35.02.01.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Broto"
+            },
+            {
+              "kode_wilayah": "35.02.01.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Menggare"
+            },
+            {
+              "kode_wilayah": "35.02.01.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kambeng"
+            },
+            {
+              "kode_wilayah": "35.02.01.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wates"
+            },
+            {
+              "kode_wilayah": "35.02.01.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngilo-Ilo"
+            },
+            {
+              "kode_wilayah": "35.02.01.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Duri"
+            },
+            {
+              "kode_wilayah": "35.02.01.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngloning"
+            },
+            {
+              "kode_wilayah": "35.02.01.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Plancungan"
+            },
+            {
+              "kode_wilayah": "35.02.01.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jebeng"
+            },
+            {
+              "kode_wilayah": "35.02.01.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Galak"
+            },
+            {
+              "kode_wilayah": "35.02.01.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Truneng"
+            },
+            {
+              "kode_wilayah": "35.02.01.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Simo"
+            },
+            {
+              "kode_wilayah": "35.02.01.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Crabak"
+            },
+            {
+              "kode_wilayah": "35.02.01.2018",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mojopitu"
+            },
+            {
+              "kode_wilayah": "35.02.01.2019",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gundik"
+            },
+            {
+              "kode_wilayah": "35.02.01.2020",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nailan"
+            },
+            {
+              "kode_wilayah": "35.02.01.2021",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gombang"
+            },
+            {
+              "kode_wilayah": "35.02.01.2022",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Janti"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.02",
+          "nama_kecamatan": "Ngrayun",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.02.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonodadi"
+            },
+            {
+              "kode_wilayah": "35.02.02.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sendang"
+            },
+            {
+              "kode_wilayah": "35.02.02.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Baosan Kidul"
+            },
+            {
+              "kode_wilayah": "35.02.02.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Binade"
+            },
+            {
+              "kode_wilayah": "35.02.02.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mrayan"
+            },
+            {
+              "kode_wilayah": "35.02.02.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Baosan Lor"
+            },
+            {
+              "kode_wilayah": "35.02.02.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Temon"
+            },
+            {
+              "kode_wilayah": "35.02.02.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Selur"
+            },
+            {
+              "kode_wilayah": "35.02.02.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngrayun"
+            },
+            {
+              "kode_wilayah": "35.02.02.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Cepoko"
+            },
+            {
+              "kode_wilayah": "35.02.02.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gedangan"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.03",
+          "nama_kecamatan": "Bungkal",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.03.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pelem"
+            },
+            {
+              "kode_wilayah": "35.02.03.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Koripan"
+            },
+            {
+              "kode_wilayah": "35.02.03.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bekare"
+            },
+            {
+              "kode_wilayah": "35.02.03.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nambak"
+            },
+            {
+              "kode_wilayah": "35.02.03.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kalisat"
+            },
+            {
+              "kode_wilayah": "35.02.03.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Munggu"
+            },
+            {
+              "kode_wilayah": "35.02.03.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pager"
+            },
+            {
+              "kode_wilayah": "35.02.03.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Belang"
+            },
+            {
+              "kode_wilayah": "35.02.03.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bungkal"
+            },
+            {
+              "kode_wilayah": "35.02.03.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ketonggo"
+            },
+            {
+              "kode_wilayah": "35.02.03.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kunti"
+            },
+            {
+              "kode_wilayah": "35.02.03.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bancar"
+            },
+            {
+              "kode_wilayah": "35.02.03.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Padas"
+            },
+            {
+              "kode_wilayah": "35.02.03.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bungu"
+            },
+            {
+              "kode_wilayah": "35.02.03.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kupuk"
+            },
+            {
+              "kode_wilayah": "35.02.03.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sambilawang"
+            },
+            {
+              "kode_wilayah": "35.02.03.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kwajon"
+            },
+            {
+              "kode_wilayah": "35.02.03.2018",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bediwetan"
+            },
+            {
+              "kode_wilayah": "35.02.03.2019",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bedikulon"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.04",
+          "nama_kecamatan": "Sambit",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.04.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gajah"
+            },
+            {
+              "kode_wilayah": "35.02.04.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wringinanom"
+            },
+            {
+              "kode_wilayah": "35.02.04.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngadisanan"
+            },
+            {
+              "kode_wilayah": "35.02.04.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Maguwan"
+            },
+            {
+              "kode_wilayah": "35.02.04.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nglewan"
+            },
+            {
+              "kode_wilayah": "35.02.04.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bedingin"
+            },
+            {
+              "kode_wilayah": "35.02.04.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bancangan"
+            },
+            {
+              "kode_wilayah": "35.02.04.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Campurejo"
+            },
+            {
+              "kode_wilayah": "35.02.04.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Campursari"
+            },
+            {
+              "kode_wilayah": "35.02.04.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bulu"
+            },
+            {
+              "kode_wilayah": "35.02.04.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sambit"
+            },
+            {
+              "kode_wilayah": "35.02.04.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Besuki"
+            },
+            {
+              "kode_wilayah": "35.02.04.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wilangan"
+            },
+            {
+              "kode_wilayah": "35.02.04.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bangsalan"
+            },
+            {
+              "kode_wilayah": "35.02.04.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kemuning"
+            },
+            {
+              "kode_wilayah": "35.02.04.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jrakah"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.05",
+          "nama_kecamatan": "Sawoo",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.05.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tumpuk"
+            },
+            {
+              "kode_wilayah": "35.02.05.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pangkal"
+            },
+            {
+              "kode_wilayah": "35.02.05.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tumpak Pelem"
+            },
+            {
+              "kode_wilayah": "35.02.05.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tempuran"
+            },
+            {
+              "kode_wilayah": "35.02.05.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sriti"
+            },
+            {
+              "kode_wilayah": "35.02.05.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Temon"
+            },
+            {
+              "kode_wilayah": "35.02.05.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sawoo"
+            },
+            {
+              "kode_wilayah": "35.02.05.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Prayungan"
+            },
+            {
+              "kode_wilayah": "35.02.05.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tugurejo"
+            },
+            {
+              "kode_wilayah": "35.02.05.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Grogol"
+            },
+            {
+              "kode_wilayah": "35.02.05.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ketro"
+            },
+            {
+              "kode_wilayah": "35.02.05.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kori"
+            },
+            {
+              "kode_wilayah": "35.02.05.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bondrang"
+            },
+            {
+              "kode_wilayah": "35.02.05.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngindeng"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.06",
+          "nama_kecamatan": "Sooko",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.06.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngadirojo"
+            },
+            {
+              "kode_wilayah": "35.02.06.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Klepu"
+            },
+            {
+              "kode_wilayah": "35.02.06.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Suru"
+            },
+            {
+              "kode_wilayah": "35.02.06.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sooko"
+            },
+            {
+              "kode_wilayah": "35.02.06.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bedoho"
+            },
+            {
+              "kode_wilayah": "35.02.06.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jurug"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.07",
+          "nama_kecamatan": "Pulung",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.07.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangpatihan"
+            },
+            {
+              "kode_wilayah": "35.02.07.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tegalrejo"
+            },
+            {
+              "kode_wilayah": "35.02.07.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bedrug"
+            },
+            {
+              "kode_wilayah": "35.02.07.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wagir Kidul"
+            },
+            {
+              "kode_wilayah": "35.02.07.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Singgahan"
+            },
+            {
+              "kode_wilayah": "35.02.07.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Patik"
+            },
+            {
+              "kode_wilayah": "35.02.07.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pulung"
+            },
+            {
+              "kode_wilayah": "35.02.07.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pulung Merdiko"
+            },
+            {
+              "kode_wilayah": "35.02.07.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sidoharjo"
+            },
+            {
+              "kode_wilayah": "35.02.07.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wotan"
+            },
+            {
+              "kode_wilayah": "35.02.07.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Plunturan"
+            },
+            {
+              "kode_wilayah": "35.02.07.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pomahan"
+            },
+            {
+              "kode_wilayah": "35.02.07.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kesugihan"
+            },
+            {
+              "kode_wilayah": "35.02.07.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Serag"
+            },
+            {
+              "kode_wilayah": "35.02.07.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wayang"
+            },
+            {
+              "kode_wilayah": "35.02.07.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Munggung"
+            },
+            {
+              "kode_wilayah": "35.02.07.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bekiring"
+            },
+            {
+              "kode_wilayah": "35.02.07.2018",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Banaran"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.08",
+          "nama_kecamatan": "Mlarak",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.08.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tugu"
+            },
+            {
+              "kode_wilayah": "35.02.08.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Candi"
+            },
+            {
+              "kode_wilayah": "35.02.08.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Totokan"
+            },
+            {
+              "kode_wilayah": "35.02.08.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngrukem"
+            },
+            {
+              "kode_wilayah": "35.02.08.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Siwalan"
+            },
+            {
+              "kode_wilayah": "35.02.08.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Joresan"
+            },
+            {
+              "kode_wilayah": "35.02.08.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nglumpang"
+            },
+            {
+              "kode_wilayah": "35.02.08.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gontor"
+            },
+            {
+              "kode_wilayah": "35.02.08.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gandu"
+            },
+            {
+              "kode_wilayah": "35.02.08.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jabung"
+            },
+            {
+              "kode_wilayah": "35.02.08.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bajang"
+            },
+            {
+              "kode_wilayah": "35.02.08.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mlarak"
+            },
+            {
+              "kode_wilayah": "35.02.08.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Serangan"
+            },
+            {
+              "kode_wilayah": "35.02.08.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Suren"
+            },
+            {
+              "kode_wilayah": "35.02.08.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kaponan"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.09",
+          "nama_kecamatan": "Jetis",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.09.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngasinan"
+            },
+            {
+              "kode_wilayah": "35.02.09.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kutu Kulon"
+            },
+            {
+              "kode_wilayah": "35.02.09.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kutu Wetan"
+            },
+            {
+              "kode_wilayah": "35.02.09.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kradenan"
+            },
+            {
+              "kode_wilayah": "35.02.09.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mojomati"
+            },
+            {
+              "kode_wilayah": "35.02.09.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Coper"
+            },
+            {
+              "kode_wilayah": "35.02.09.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mojorejo"
+            },
+            {
+              "kode_wilayah": "35.02.09.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karanggebang"
+            },
+            {
+              "kode_wilayah": "35.02.09.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jetis"
+            },
+            {
+              "kode_wilayah": "35.02.09.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tegalsari"
+            },
+            {
+              "kode_wilayah": "35.02.09.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wonokerto"
+            },
+            {
+              "kode_wilayah": "35.02.09.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Josari"
+            },
+            {
+              "kode_wilayah": "35.02.09.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Turi"
+            },
+            {
+              "kode_wilayah": "35.02.09.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Winong"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.10",
+          "nama_kecamatan": "Siman",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.10.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Demangan"
+            },
+            {
+              "kode_wilayah": "35.02.10.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngabar"
+            },
+            {
+              "kode_wilayah": "35.02.10.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Madusari"
+            },
+            {
+              "kode_wilayah": "35.02.10.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Beton"
+            },
+            {
+              "kode_wilayah": "35.02.10.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sekaran"
+            },
+            {
+              "kode_wilayah": "35.02.10.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Brahu"
+            },
+            {
+              "kode_wilayah": "35.02.10.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kepuhrubuh"
+            },
+            {
+              "kode_wilayah": "35.02.10.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sawuh"
+            },
+            {
+              "kode_wilayah": "35.02.10.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jarak"
+            },
+            {
+              "kode_wilayah": "35.02.10.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tranjang"
+            },
+            {
+              "kode_wilayah": "35.02.10.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pijeran"
+            },
+            {
+              "kode_wilayah": "35.02.10.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Manuk"
+            },
+            {
+              "kode_wilayah": "35.02.10.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Siman"
+            },
+            {
+              "kode_wilayah": "35.02.10.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Patihan Kidul"
+            },
+            {
+              "kode_wilayah": "35.02.10.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Rono Sentanan"
+            },
+            {
+              "kode_wilayah": "35.02.10.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tajug"
+            },
+            {
+              "kode_wilayah": "35.02.10.1017",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Ronowijayan"
+            },
+            {
+              "kode_wilayah": "35.02.10.1018",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Mangunsuman"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.11",
+          "nama_kecamatan": "Balong",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.11.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pandak"
+            },
+            {
+              "kode_wilayah": "35.02.11.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bulu Kidul"
+            },
+            {
+              "kode_wilayah": "35.02.11.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bulak"
+            },
+            {
+              "kode_wilayah": "35.02.11.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngendut"
+            },
+            {
+              "kode_wilayah": "35.02.11.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangpatihan"
+            },
+            {
+              "kode_wilayah": "35.02.11.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sumberejo"
+            },
+            {
+              "kode_wilayah": "35.02.11.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngumpul"
+            },
+            {
+              "kode_wilayah": "35.02.11.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngraket"
+            },
+            {
+              "kode_wilayah": "35.02.11.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Dadapan"
+            },
+            {
+              "kode_wilayah": "35.02.11.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Singkil"
+            },
+            {
+              "kode_wilayah": "35.02.11.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangan"
+            },
+            {
+              "kode_wilayah": "35.02.11.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bajang"
+            },
+            {
+              "kode_wilayah": "35.02.11.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Balong"
+            },
+            {
+              "kode_wilayah": "35.02.11.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jalen"
+            },
+            {
+              "kode_wilayah": "35.02.11.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangmojo"
+            },
+            {
+              "kode_wilayah": "35.02.11.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sedarat"
+            },
+            {
+              "kode_wilayah": "35.02.11.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Purworejo"
+            },
+            {
+              "kode_wilayah": "35.02.11.2018",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tatung"
+            },
+            {
+              "kode_wilayah": "35.02.11.2019",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Muneng"
+            },
+            {
+              "kode_wilayah": "35.02.11.2020",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngampel"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.12",
+          "nama_kecamatan": "Kauman",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.12.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tegalombo"
+            },
+            {
+              "kode_wilayah": "35.02.12.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nongkodono"
+            },
+            {
+              "kode_wilayah": "35.02.12.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sukosari"
+            },
+            {
+              "kode_wilayah": "35.02.12.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngrandu"
+            },
+            {
+              "kode_wilayah": "35.02.12.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nglarangan"
+            },
+            {
+              "kode_wilayah": "35.02.12.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bringin"
+            },
+            {
+              "kode_wilayah": "35.02.12.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pengkol"
+            },
+            {
+              "kode_wilayah": "35.02.12.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gabel"
+            },
+            {
+              "kode_wilayah": "35.02.12.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ciluk"
+            },
+            {
+              "kode_wilayah": "35.02.12.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Semanding"
+            },
+            {
+              "kode_wilayah": "35.02.12.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tosanan"
+            },
+            {
+              "kode_wilayah": "35.02.12.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Maron"
+            },
+            {
+              "kode_wilayah": "35.02.12.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Somoroto"
+            },
+            {
+              "kode_wilayah": "35.02.12.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Plosojenar"
+            },
+            {
+              "kode_wilayah": "35.02.12.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Carat"
+            },
+            {
+              "kode_wilayah": "35.02.12.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kauman"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.13",
+          "nama_kecamatan": "Badegan",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.13.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Dayakan"
+            },
+            {
+              "kode_wilayah": "35.02.13.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangan"
+            },
+            {
+              "kode_wilayah": "35.02.13.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tanjunggunung"
+            },
+            {
+              "kode_wilayah": "35.02.13.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangjoho"
+            },
+            {
+              "kode_wilayah": "35.02.13.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tanjungrejo"
+            },
+            {
+              "kode_wilayah": "35.02.13.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bandaralim"
+            },
+            {
+              "kode_wilayah": "35.02.13.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kapuran"
+            },
+            {
+              "kode_wilayah": "35.02.13.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Watubonang"
+            },
+            {
+              "kode_wilayah": "35.02.13.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Biting"
+            },
+            {
+              "kode_wilayah": "35.02.13.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Badegan"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.14",
+          "nama_kecamatan": "Sampung",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.14.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sampung"
+            },
+            {
+              "kode_wilayah": "35.02.14.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pohijo"
+            },
+            {
+              "kode_wilayah": "35.02.14.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jenangan"
+            },
+            {
+              "kode_wilayah": "35.02.14.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nglurup"
+            },
+            {
+              "kode_wilayah": "35.02.14.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tulung"
+            },
+            {
+              "kode_wilayah": "35.02.14.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Carangrejo"
+            },
+            {
+              "kode_wilayah": "35.02.14.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pagerukir"
+            },
+            {
+              "kode_wilayah": "35.02.14.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kunti"
+            },
+            {
+              "kode_wilayah": "35.02.14.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Glinggang"
+            },
+            {
+              "kode_wilayah": "35.02.14.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gelangkulon"
+            },
+            {
+              "kode_wilayah": "35.02.14.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karangwaluh"
+            },
+            {
+              "kode_wilayah": "35.02.14.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ringinputih"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.15",
+          "nama_kecamatan": "Sukorejo",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.15.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sukorejo"
+            },
+            {
+              "kode_wilayah": "35.02.15.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bangunrejo"
+            },
+            {
+              "kode_wilayah": "35.02.15.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sidorejo"
+            },
+            {
+              "kode_wilayah": "35.02.15.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nambangrejo"
+            },
+            {
+              "kode_wilayah": "35.02.15.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Lengkong"
+            },
+            {
+              "kode_wilayah": "35.02.15.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gelang Lor"
+            },
+            {
+              "kode_wilayah": "35.02.15.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Serangan"
+            },
+            {
+              "kode_wilayah": "35.02.15.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nampan"
+            },
+            {
+              "kode_wilayah": "35.02.15.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kranggan"
+            },
+            {
+              "kode_wilayah": "35.02.15.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Golan"
+            },
+            {
+              "kode_wilayah": "35.02.15.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Prajegan"
+            },
+            {
+              "kode_wilayah": "35.02.15.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kedungbanteng"
+            },
+            {
+              "kode_wilayah": "35.02.15.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karanglo Lor"
+            },
+            {
+              "kode_wilayah": "35.02.15.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gegeran"
+            },
+            {
+              "kode_wilayah": "35.02.15.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gandukepuh"
+            },
+            {
+              "kode_wilayah": "35.02.15.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kalimalang"
+            },
+            {
+              "kode_wilayah": "35.02.15.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sragi"
+            },
+            {
+              "kode_wilayah": "35.02.15.2018",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Morosari"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.16",
+          "nama_kecamatan": "Babadan",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.16.1001",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Kertosari"
+            },
+            {
+              "kode_wilayah": "35.02.16.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Cekok"
+            },
+            {
+              "kode_wilayah": "35.02.16.1003",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Patihan Wetan"
+            },
+            {
+              "kode_wilayah": "35.02.16.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Japan"
+            },
+            {
+              "kode_wilayah": "35.02.16.1005",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Kadipaten"
+            },
+            {
+              "kode_wilayah": "35.02.16.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gupolo"
+            },
+            {
+              "kode_wilayah": "35.02.16.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Polorejo"
+            },
+            {
+              "kode_wilayah": "35.02.16.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bareng"
+            },
+            {
+              "kode_wilayah": "35.02.16.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngunut"
+            },
+            {
+              "kode_wilayah": "35.02.16.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sukosari"
+            },
+            {
+              "kode_wilayah": "35.02.16.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Lembah"
+            },
+            {
+              "kode_wilayah": "35.02.16.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pondok"
+            },
+            {
+              "kode_wilayah": "35.02.16.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Babadan"
+            },
+            {
+              "kode_wilayah": "35.02.16.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Purwosari"
+            },
+            {
+              "kode_wilayah": "35.02.16.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Trisono"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.17",
+          "nama_kecamatan": "Ponorogo",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.17.1001",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Paju"
+            },
+            {
+              "kode_wilayah": "35.02.17.1002",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Brotonegaran"
+            },
+            {
+              "kode_wilayah": "35.02.17.1003",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Pakunden"
+            },
+            {
+              "kode_wilayah": "35.02.17.1004",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Kepatihan"
+            },
+            {
+              "kode_wilayah": "35.02.17.1005",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Surodikraman"
+            },
+            {
+              "kode_wilayah": "35.02.17.1006",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Purbosuman"
+            },
+            {
+              "kode_wilayah": "35.02.17.1007",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Tonatan"
+            },
+            {
+              "kode_wilayah": "35.02.17.1008",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Bangunsari"
+            },
+            {
+              "kode_wilayah": "35.02.17.1009",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Tamanarum"
+            },
+            {
+              "kode_wilayah": "35.02.17.1010",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Kauman"
+            },
+            {
+              "kode_wilayah": "35.02.17.1011",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Tambakbayan"
+            },
+            {
+              "kode_wilayah": "35.02.17.1012",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Pinggirsari"
+            },
+            {
+              "kode_wilayah": "35.02.17.1013",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Mangkujayan"
+            },
+            {
+              "kode_wilayah": "35.02.17.1014",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Banyudono"
+            },
+            {
+              "kode_wilayah": "35.02.17.1015",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Nologaten"
+            },
+            {
+              "kode_wilayah": "35.02.17.1016",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Cokromenggalan"
+            },
+            {
+              "kode_wilayah": "35.02.17.1017",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Keniten"
+            },
+            {
+              "kode_wilayah": "35.02.17.1018",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Jingglong"
+            },
+            {
+              "kode_wilayah": "35.02.17.1019",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Beduri"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.18",
+          "nama_kecamatan": "Jenangan",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.18.1001",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Setono"
+            },
+            {
+              "kode_wilayah": "35.02.18.1002",
+              "jenis_wilayah": "Kelurahan",
+              "nama_desakel": "Singosaren"
+            },
+            {
+              "kode_wilayah": "35.02.18.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Mrican"
+            },
+            {
+              "kode_wilayah": "35.02.18.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Plalangan"
+            },
+            {
+              "kode_wilayah": "35.02.18.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Nglayang"
+            },
+            {
+              "kode_wilayah": "35.02.18.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jenangan"
+            },
+            {
+              "kode_wilayah": "35.02.18.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jimbe"
+            },
+            {
+              "kode_wilayah": "35.02.18.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngrupit"
+            },
+            {
+              "kode_wilayah": "35.02.18.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pintu"
+            },
+            {
+              "kode_wilayah": "35.02.18.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sedah"
+            },
+            {
+              "kode_wilayah": "35.02.18.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Panjeng"
+            },
+            {
+              "kode_wilayah": "35.02.18.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sraten"
+            },
+            {
+              "kode_wilayah": "35.02.18.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Semanding"
+            },
+            {
+              "kode_wilayah": "35.02.18.2014",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tanjungsari"
+            },
+            {
+              "kode_wilayah": "35.02.18.2015",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Paringan"
+            },
+            {
+              "kode_wilayah": "35.02.18.2016",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wates"
+            },
+            {
+              "kode_wilayah": "35.02.18.2017",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Kemiri"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.19",
+          "nama_kecamatan": "Ngebel",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.19.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngrogung"
+            },
+            {
+              "kode_wilayah": "35.02.19.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sahang"
+            },
+            {
+              "kode_wilayah": "35.02.19.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Wagir Lor"
+            },
+            {
+              "kode_wilayah": "35.02.19.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Talun"
+            },
+            {
+              "kode_wilayah": "35.02.19.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Gondowido"
+            },
+            {
+              "kode_wilayah": "35.02.19.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pupus"
+            },
+            {
+              "kode_wilayah": "35.02.19.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Ngebel"
+            },
+            {
+              "kode_wilayah": "35.02.19.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sempu"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.20",
+          "nama_kecamatan": "Jambon",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.20.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jonggol"
+            },
+            {
+              "kode_wilayah": "35.02.20.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Poko"
+            },
+            {
+              "kode_wilayah": "35.02.20.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sendang"
+            },
+            {
+              "kode_wilayah": "35.02.20.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bringinan"
+            },
+            {
+              "kode_wilayah": "35.02.20.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Karanglo Kidul"
+            },
+            {
+              "kode_wilayah": "35.02.20.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Krebet"
+            },
+            {
+              "kode_wilayah": "35.02.20.2007",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bulu Lor"
+            },
+            {
+              "kode_wilayah": "35.02.20.2008",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Jambon"
+            },
+            {
+              "kode_wilayah": "35.02.20.2009",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Blembem"
+            },
+            {
+              "kode_wilayah": "35.02.20.2010",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pulosari"
+            },
+            {
+              "kode_wilayah": "35.02.20.2011",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Menang"
+            },
+            {
+              "kode_wilayah": "35.02.20.2012",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Srandil"
+            },
+            {
+              "kode_wilayah": "35.02.20.2013",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Sidoharjo"
+            }
+          ]
+        },
+        {
+          "kode_kecamatan": "35.02.21",
+          "nama_kecamatan": "Pudak",
+          "desa_kelurahan": [
+            {
+              "kode_wilayah": "35.02.21.2001",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Bareng"
+            },
+            {
+              "kode_wilayah": "35.02.21.2002",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Tambang"
+            },
+            {
+              "kode_wilayah": "35.02.21.2003",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Krisik"
+            },
+            {
+              "kode_wilayah": "35.02.21.2004",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pudak Wetan"
+            },
+            {
+              "kode_wilayah": "35.02.21.2005",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Banjarejo"
+            },
+            {
+              "kode_wilayah": "35.02.21.2006",
+              "jenis_wilayah": "Desa",
+              "nama_desakel": "Pudak Kulon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
